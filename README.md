@@ -52,9 +52,8 @@ An Android application to calculate age in years, months, and days based on the 
 ## 🧑‍💻 Author
 
 **Atharv Patil**  
-🔗 [GitHub](https://github.com/your-username)  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
-📧 [Email](mailto:atharvpatil@example.com)
+🔗 [GitHub](https://github.com/Atharv-Patil-dev)  
+📧 [Email](mailto:atharvpatil6225@Gmail.com)
 
 ---
 
