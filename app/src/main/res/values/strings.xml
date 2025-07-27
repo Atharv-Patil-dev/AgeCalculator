@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Age Calculator</string>
+    <string name="pick_date">Pick Date of Birth</string>
+    <string name="share_age">Share Age</string>
+    <string name="your_age">Your Age: %1$d Years</string>
+    <string name="next_birthday">Next Birthday in: %1$d days</string>
+    <string name="life_path">Life Path Number: %1$d</string>
+    <string name="share_via">Share via</string>
+</resources>
